@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Swift, SwiftUI and UX Design.
 - 📲 I also develop filters for Instagram Stories, through Spark AR.
 - 💬 You can talk to me about: TV Shows (specially Friends), Instagram, Green Roofs, iOS Developing.
-- - 📫 How to reach me: 
+- 📫 How to reach me: 
       [Instagram](https://www.instagram.com/gabizorzo/) 
       [Discord](https://discordapp.com/users/690255880675262518) 
       [LinkedIn](https://www.linkedin.com/in/gabriela-zorzo-83152815b/)
