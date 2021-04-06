@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey guys 👋
 
-<!--
-**gabizorzo/gabizorzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+#### I am Gabriela Zorzo, a Civil Engineer trying to learn more about this world of coding 👩🏼‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently studying Computer Science at Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS).
+- 🌱 I’m currently learning Swift, SwiftUI and UX Design.
+- 📲 I also develop filters for Instagram Stories, through Spark AR.
+- 💬 You can talk to me about: TV Shows (specially Friends), Instagram, Green Roofs, iOS Developing.
+- - 📫 How to reach me: 
+      [Instagram](https://www.instagram.com/gabizorzo/) 
+      [Discord](https://discordapp.com/users/690255880675262518) 
+      [LinkedIn](https://www.linkedin.com/in/gabriela-zorzo-83152815b/)
+
